@@ -94,7 +94,7 @@ export default function Testimonials() {
                     ))}
                   </div>
                   <FaQuoteLeft className="text-forest-400 text-2xl mb-4" />
-                  <p className="text-white/78 text-base leading-relaxed mb-6 italic font-ui">
+                  <p className="text-white text-base leading-relaxed mb-6 italic font-ui">
                     {t.text}
                   </p>
                   <div className="flex items-center gap-4 pt-4 border-t border-white/10">
